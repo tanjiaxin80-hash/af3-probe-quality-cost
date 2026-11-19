@@ -1,6 +1,6 @@
 # Numerical data and analysis code
 
-Companion to *Quality and computational cost trade-offs in probe-guided inference for single-chain AlphaFold 3* by Tinglong Tang, Jiaxin Tan, Xinqiong Liu and Lu Wang.
+Companion to *Quality and computational cost trade-offs in probe-guided inference for single-chain AlphaFold 3* by Tinglong Tang, Jiaxin Tan, Xinqiong Liu, Lu Wang and Fangyi Wang.
 
 Run the following command after extracting the archive, using Python 3 and its standard library.
 
@@ -45,4 +45,4 @@ not establish a net efficiency gain or general structural equivalence.
 
 The data are from a single-chain AlphaFold 3 study. The manuscript was prepared
 for the Journal of Computational Science; this repository does not imply
-publication or acceptance. Funding: grant 2025YGKF1-08.
+publication or acceptance. Funding: Open Fund of Interdisciplinary Institute for Advanced Medicine and Engineering, College of Basic Medical Sciences, China Three Gorges University (grant 2025YGKF1-08), and the Key-Area Research and Development Program of Hubei Province (grant 2025BBB077).
