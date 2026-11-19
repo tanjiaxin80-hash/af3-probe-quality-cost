@@ -1,0 +1,13 @@
+﻿method,targets,valid_returns,P3_evaluable,events,composite_ratio_75,status
+DEVELOPMENT_BEST_FIXED,78,75,75,0,1.0,original_frozen_context_not_new_method_selection
+FULL_FEEDBACK,78,75,75,4,1.0217516570147929,original_frozen_context_not_new_method_selection
+LENGTH,78,75,75,4,0.9954639942226632,original_frozen_context_not_new_method_selection
+MATCHED_BUDGET_RANDOM_RETURN,78,75,75,5,1.0217516570147929,original_frozen_context_not_new_method_selection
+NO_LOCAL_GATE,78,75,75,6,0.9909791464074553,original_frozen_context_not_new_method_selection
+NO_REFERENCE_FALLBACK,78,75,75,4,1.0174228164820527,original_frozen_context_not_new_method_selection
+P0,78,75,75,6,0.9909791464074553,original_frozen_context_not_new_method_selection
+P1,78,75,75,4,0.9809724677351657,original_frozen_context_not_new_method_selection
+P3,78,75,75,0,1.0,original_frozen_context_not_new_method_selection
+P4,78,75,75,5,1.0522029310405034,original_frozen_context_not_new_method_selection
+SIMPLE_PTM,78,75,75,0,1.0345091711548675,original_frozen_context_not_new_method_selection
+STATIC43,78,75,75,3,0.9927077606946956,original_frozen_context_not_new_method_selection

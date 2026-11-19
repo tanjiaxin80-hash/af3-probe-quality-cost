@@ -1,0 +1,20 @@
+{
+  "measured_probe_seconds": 1092.414,
+  "break_even_probe_seconds": 579.486,
+  "required_probe_reduction_percent": 46.95,
+  "paths_costlier_than_fixed_P3_with_zero_probe_time": 4,
+  "audited_paths": 10,
+  "cached_wall_time_increase_percent": 27.65,
+  "audit_composite_cost_increase_percent": 1.39,
+  "held_out_groups": 78,
+  "held_out_valid_returns": 75,
+  "held_out_evaluable_groups": 75,
+  "TM_score_loss_events": 4,
+  "observed_loss_percent": 5.33,
+  "one_sided_95_percent_upper_limit_assuming_independent_binomial_outcomes": 11.79,
+  "mean_paired_TM_score_difference": 0.000616,
+  "paired_TM_score_difference_95_percent_t_interval": [
+    -0.00212,
+    0.003352
+  ]
+}
